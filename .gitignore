@@ -1,0 +1,13 @@
+# Local / temporary files
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Data files are intentionally not versioned
+*.csv
+*.parquet
+*.jsonl
+*.delta
